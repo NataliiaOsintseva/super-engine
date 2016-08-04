@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{EAAD0706-5FDB-44DD-BD40-8D8299290683}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{B0474886-8913-4F62-AEB2-5071E4DD2CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoublyLinkedList", "DoublyLinkedList\DoublyLinkedList.csproj", "{CDCAE207-DBC5-4598-9511-5441AA1035E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EAAD0706-5FDB-44DD-BD40-8D8299290683}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAAD0706-5FDB-44DD-BD40-8D8299290683}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAAD0706-5FDB-44DD-BD40-8D8299290683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0474886-8913-4F62-AEB2-5071E4DD2CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0474886-8913-4F62-AEB2-5071E4DD2CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0474886-8913-4F62-AEB2-5071E4DD2CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0474886-8913-4F62-AEB2-5071E4DD2CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCAE207-DBC5-4598-9511-5441AA1035E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCAE207-DBC5-4598-9511-5441AA1035E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCAE207-DBC5-4598-9511-5441AA1035E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCAE207-DBC5-4598-9511-5441AA1035E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
